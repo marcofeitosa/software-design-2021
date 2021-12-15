@@ -2,7 +2,7 @@
 
 [EnigMais](https://www.enigmais.com.br/) é uma empresa goiana que comercializa vários “desafios”. Um deles é o “quadrado mágico”. Nele você deve dispor todos os números inteiros naturais de 1 a 16em uma matriz 4x4 de tal forma que as somas dos números em cada uma das linhas, em cada uma das colunas e em cada uma das diagonais seja 34. Dependendo da sua curiosidade, você pode consultar informações adicionais sobre [quadrados mágicos](https://pt.wikipedia.org/wiki/Quadrado_m%C3%A1gico). **O objetivo aqui é identificar todas as possíveis soluções**. Na ilustração abaixo o “quadrado”, “matriz” ou “tabuleiro” está parcialmente preenchido, restando o acréscimo dos números 2, 3, 4, 6, 10, 12 e 13. Observe que este preenchimento parcial não é parte de uma solução, pois a linha contendo 14 e 9, o que perfaz 23, precisa nas duas outras posições de números cuja soma deve perfazer 11, o que não é possível com os números ainda não empregados.
 
-![Quadrado mágico 4x4](/assets/images/4x4.png)
+![Quadrado mágico 4x4](/avaliacao2/4x4.png)
 
 ### Proposta de Solução
 
